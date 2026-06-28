@@ -8,8 +8,8 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Passionate about building scalable backend systems with Spring Boot & Microservices
-- ☁️ Exploring AWS Cloud: EC2, S3, RDS, Lambda, IAM, VPC
+- 🚀 Software Developer focused on Spring Boot, Java, and Microservices
+- ☁️ Currently exploring and building with AWS (EC2, S3, RDS, Lambda, IAM, VPC)
 - 📫 Reach me at: **gnithinreddy03@gmail.com**
 
 ---
